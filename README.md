@@ -11,15 +11,14 @@ The layout is based on a standard iso 75%, with some small changes to allow for 
 81x 1n4148 diodes**<br/>
 81x hotswap sockets*** <br/>
 1x keycap set (https://shorturl.at/FZ8aj if anyone cares)***<br/>
-1x stabiliser set * or *** <br/>
+1x stabiliser set ([link](https://www.aliexpress.com/item/1005001686299616.html?spm=a2g0o.productlist.main.10.313fHmOTHmOTmE&algo_pvid=5b9c2a3c-98e0-4d12-b0a7-567bf3bfd069&algo_exp_id=5b9c2a3c-98e0-4d12-b0a7-567bf3bfd069-9&pdp_ext_f=%7B%22order%22%3A%22113%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21SEK%2168.51%2160.94%21%21%216.88%216.12%21%40211b618e17507115085988767e8877%2112000017133740376%21sea%21SE%216379045836%21X&curPageLogUid=KPybE6XfRygE&utparam-url=scene%3Asearch%7Cquery_from%3A), 56 kr/$5,83) <br/>
 > 3x 2u stabiliser <br/>
 > 1x 6.25u stabiliser <br/>
 4x m3 x 6 screw** <br/>
 4x m3 heatinsert** <br/>
 
-*bought from maxgaming.se (the only kinda cheap store with keyboard stuff in sweden aprt from amazon)<br/>
-**bought from electrokit.com <br/>
-***bought from amazon.se<br/>
+Evrerything is bought from aliexpress, see links.
+Prices as of writing.
 # OBS! Full case file<br/>
 The complete case-file was to big for github, therefor i uploaded it to the slack cdn:<br/>
 https://hc-cdn.hel1.your-objectstorage.com/s/v3/3df98c002cca8f447206d590c6b9a0739d3f8359_a_keyboard_v1_full.stl<br/>
