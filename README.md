@@ -7,7 +7,7 @@ The layout is based on a standard iso 75%, with some small changes to allow for 
 1x case top (balck)<br/>
 1x orpehus pico<br/>
 1x pcb<br/>
-81x Mx-brown switches ([link]()) <br/>
+81x Mx-brown switches(-ish)  ([link](https://a.aliexpress.com/_EytZVsQ), 178 kr/18.66 usd) <br/>
 81x 1n4148 diodes ([]())<br/>
 81x hotswap sockets ([link](https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.productlist.main.11.22fb141eQwu7ZY&algo_pvid=dc677295-1cc3-4869-9cc6-a0431451fb91&algo_exp_id=dc677295-1cc3-4869-9cc6-a0431451fb91-10&pdp_ext_f=%7B%22order%22%3A%2271%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21SEK%2170.60%2163.53%21%21%217.09%216.38%21%402103856417507131320336642e2f6e%2112000036652544705%21sea%21SE%216379045836%21X&curPageLogUid=CteU4r1ki4NJ&utparam-url=scene%3Asearch%7Cquery_from%3A)) <br/>
 1x keycap set (Supplied by myself, no need for grant to keycaps)<br/>
